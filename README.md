@@ -20,4 +20,7 @@ git config --global user.email "your_email@example.com" git config --global user
 2. В стартовом окне Идеи нажать кнопку Clone Repository
 3. В строку URL вставить ссылку на проект (которую скопировали на сайте)
 4. Нажать кнопку Clone
-```
+
+***Доработка проекта и обновление его на GitHub***
+
+1. Пишем новий функционал
