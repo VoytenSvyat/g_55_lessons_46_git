@@ -33,4 +33,5 @@ git config --global user.email "your_email@example.com" git config --global user
 2. Переключаемся на єту ветку(checkout)
 3. Пишем новий функционал
 4. Делаем операцию commit
+5. Делаем push последнего изменения в новую ветку
 
