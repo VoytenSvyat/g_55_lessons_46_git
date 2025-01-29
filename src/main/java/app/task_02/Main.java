@@ -5,5 +5,6 @@ public class Main {
 
         // Новий функционал
         System.out.println("Task 2");
+        System.out.println("Task 2 update");
     }
 }
